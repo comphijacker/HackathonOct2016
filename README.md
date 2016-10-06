@@ -13,7 +13,12 @@ Front end-
 4-As a user I should have a profile page where I can see my total amount in my wallet.
 
 Back end-
-1- 
+1- Read the data sent by the form
+2- Enter the data into blockchain database and deduct the amount from sender account
+3- Read the data from database
+4- Generate a QR code and mail it to the recipeint.
+5- Read the data through QR APP/Read program
+6- Add the amount in recipeint account.
 
 
 
