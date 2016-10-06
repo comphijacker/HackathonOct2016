@@ -13,7 +13,7 @@ Front end-
 4-As a user I should have a profile page where I can see my total amount in my wallet.
 
 Back end-
-1-
+1- 
 
 
 
