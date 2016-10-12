@@ -25,7 +25,7 @@ import net.glxn.qrgen.javase.QRCode;
 public class QRCodeProcessor {
 	
 	public static void main(String[] args) {
-		ByteArrayOutputStream out = QRCode.from("Hello World")
+		ByteArrayOutputStream out = QRCode.from("Hello World Test")
 										.to(ImageType.PNG).stream();
 
 		try {
