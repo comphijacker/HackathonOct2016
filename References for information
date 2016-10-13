@@ -1,0 +1,20 @@
+
+Few list of good websites to refer-
+
+http://www.forbes.com/sites/allbusiness/2013/11/14/how-to-build-your-first-mobile-app-in-12-steps-part-2/#7233b4e5bb99
+
+https://github.com/digital-dreamer/blockchain-programming/wiki/Video-lectures-and-courses
+
+http://bitcoinnewschannel.com/2016/01/19/bitcoin-programming-with-bitcoinj-part-i/
+http://bitcoinnewschannel.com/2016/01/21/bitcoin-programming-with-bitcoinj-part-2-bye-bye-money/
+
+http://academlib.com/7963/education/running_testing_hello-money_java_program
+
+    mvn archetype:generate -DgroupId=ReceiveMoney -DartifactId=Receive-Money
+       -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+       
+       
+
+    mvn archetype:generate -DgroupId=SendingMoney -DartifactId=Sending-Money
+       -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
